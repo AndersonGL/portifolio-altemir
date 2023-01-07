@@ -50,7 +50,9 @@ footer {
 }
 
 footer a {
-    margin: 27px;
+    margin: 100px;
+    width: 170px;
+    height: 1px;
     text-align: center;
 }
 
